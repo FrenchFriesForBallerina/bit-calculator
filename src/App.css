@@ -1,0 +1,29 @@
+* {
+  user-select: none;
+}
+
+html,
+body {
+  touch-action: manipulation;
+  position: static;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+#reactRoot {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.bits {
+  display: flex;
+  padding: 0.5em;
+  justify-content: left;
+  width: 55%;
+  height: 100%;
+}
+
+/* css credits: https://learningcontent.cisco.com/games/binary/index.html */
