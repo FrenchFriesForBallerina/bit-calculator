@@ -15,5 +15,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    ```
 3. Run the project (by default, runs on [http://localhost:3000](http://localhost:3000))
    ```sh
-   npm run
+   npm start
    ```
